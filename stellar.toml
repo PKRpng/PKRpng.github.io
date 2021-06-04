@@ -1,0 +1,45 @@
+# Surmount surmount.toml
+VERSION="2.0.0"
+
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+FEDERATION_SERVER="https://api.domain.com/federation"
+TRANSFER_SERVER="https://api.domain.com"
+SIGNING_KEY="GBBHQ7H4V6RRORKYLHTCAWP6MOHNORRFJSDPXDFYDGJB2LPZUFPXUEW3"
+HORIZON_URL="https://horizon.domain.com"
+ACCOUNTS=[
+"GB7MHMJ4RQS54TMKB2M4BQGVTZF36IAM6PYSEK7QIX7HXQ4LNYQCLPGQ"
+"GCN5YGFV4H2OCO4GGYMOMHWKHUTRD3L7YU5HFUVD4TAQVTUX7I254XLB"
+]
+
+[DOCUMENTATION]
+ORG_NAME="Surmount Foundation"
+ORG_DBA="Organization DBA"
+ORG_URL="https://www.PKRpng.github.io"
+ORG_LOGO="https://static.wixstatic.com/media/2fa75b_d94460a040fd4d2b94f733d3bd3674f9~mv2.png/v1/fill/w_160,h_160,al_c,lg_1,q_85/Surmount%20128.webp"
+ORG_DESCRIPTION="Decentralized financial token with value justified by A.I. trading in forex markets"
+ORG_PHYSICAL_ADDRESS="Vanuatu"
+ORG_PHYSICAL_ADDRESS_ATTESTATION="https://www.domain.com/address_attestation.jpg"
+ORG_PHONE_NUMBER="000"
+ORG_PHONE_NUMBER_ATTESTATION="https://www.domain.com/phone_attestation.jpg"
+ORG_KEYBASE="accountname"
+ORG_TWITTER="@SRMTFoundation"
+ORG_GITHUB="orgcode"
+ORG_OFFICIAL_EMAIL="surmountadmin@surmounttoken.com"
+
+[[PRINCIPALS]]
+name="Peter Krejcar"
+email="surmountadmin@surmounttoken.com"
+keybase="none"
+twitter="@PK_SRMT"
+github="none"
+id_photo_hash="be688838ca8686e5c90689bf2ab585cef1137c999b48c70b92f67a5c34dc15697b5d11c982ed6d71be1e1e7f7b4e0733884aa97c3f7a339a8ed03577cf74be09"
+verification_photo_hash="016ba8c4cfde65af99cb5fa8b8a37e2eb73f481b3ae34991666df2e04feb6c038666ebd1ec2b6f623967756033c702dde5f423f7d47ab6ed1827ff53783731f7"
+
+[[CURRENCIES]]
+code="SRM"
+issuer="GB7MHMJ4RQS54TMKB2M4BQGVTZF36IAM6PYSEK7QIX7HXQ4LNYQCLPGQ"
+display_decimals=2
+name="Surmount"
+desc="1 Surmount token may entitle the holder to reward from the Surmount Foundation"
+image="https://static.wixstatic.com/media/2fa75b_d94460a040fd4d2b94f733d3bd3674f9~mv2.png/v1/fill/w_160,h_160,al_c,lg_1,q_85/Surmount%20128.webp"
+
