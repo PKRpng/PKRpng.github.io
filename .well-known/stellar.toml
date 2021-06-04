@@ -7,7 +7,8 @@ TRANSFER_SERVER="https://api.domain.com"
 SIGNING_KEY="GB7MHMJ4RQS54TMKB2M4BQGVTZF36IAM6PYSEK7QIX7HXQ4LNYQCLPGQ"
 HORIZON_URL="https://horizon.domain.com"
 ACCOUNTS=[
-"GB7MHMJ4RQS54TMKB2M4BQGVTZF36IAM6PYSEK7QIX7HXQ4LNYQCLPGQ"
+"GB7MHMJ4RQS54TMKB2M4BQGVTZF36IAM6PYSEK7QIX7HXQ4LNYQCLPGQ",
+"GCN5YGFV4H2OCO4GGYMOMHWKHUTRD3L7YU5HFUVD4TAQVTUX7I254XLB"
 ]
 
 [DOCUMENTATION]
@@ -29,7 +30,13 @@ twitter="@PK_SRMT"
 code="SRM"
 issuer="GB7MHMJ4RQS54TMKB2M4BQGVTZF36IAM6PYSEK7QIX7HXQ4LNYQCLPGQ"
 display_decimals=2
+image="https://pkrpng.github.io/Surmount128.png"
+
+[[CURRENCIES]]
+code="SRM"
+issuer="GB7MHMJ4RQS54TMKB2M4BQGVTZF36IAM6PYSEK7QIX7HXQ4LNYQCLPGQ"
+display_decimals=2
 name="Surmount"
-desc="1 Surmount token may entitle the holder to reward from the Surmount Foundation"
+desc="1 Surmount token may entitle the holder to XLM from the Surmount Foundation"
 image="https://pkrpng.github.io/Surmount128.png"
 
