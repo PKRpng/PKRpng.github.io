@@ -13,27 +13,18 @@ ACCOUNTS=[
 
 [DOCUMENTATION]
 ORG_NAME="Surmount Foundation"
-ORG_DBA="Organization DBA"
+ORG_DBA="Surmount"
 ORG_URL="https://pkrpng.github.io"
 ORG_LOGO="https://pkrpng.github.io/Surmount128.png"
 ORG_DESCRIPTION="Decentralized financial token with value justified by A.I. trading in forex markets"
 ORG_PHYSICAL_ADDRESS="Vanuatu"
-ORG_PHYSICAL_ADDRESS_ATTESTATION="https://www.domain.com/address_attestation.jpg"
-ORG_PHONE_NUMBER="000"
-ORG_PHONE_NUMBER_ATTESTATION="https://www.domain.com/phone_attestation.jpg"
-ORG_KEYBASE="accountname"
 ORG_TWITTER="@SRMTFoundation"
-ORG_GITHUB="orgcode"
 ORG_OFFICIAL_EMAIL="n/a"
 
 [[PRINCIPALS]]
 name="Peter Krejcar"
 email="surmountadmin@surmounttoken.com"
-keybase="none"
 twitter="@PK_SRMT"
-github="none"
-id_photo_hash="be688838ca8686e5c90689bf2ab585cef1137c999b48c70b92f67a5c34dc15697b5d11c982ed6d71be1e1e7f7b4e0733884aa97c3f7a339a8ed03577cf74be09"
-verification_photo_hash="016ba8c4cfde65af99cb5fa8b8a37e2eb73f481b3ae34991666df2e04feb6c038666ebd1ec2b6f623967756033c702dde5f423f7d47ab6ed1827ff53783731f7"
 
 [[CURRENCIES]]
 code="SRM"
