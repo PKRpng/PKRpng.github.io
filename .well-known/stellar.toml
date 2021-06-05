@@ -1,10 +1,8 @@
-# Surmount stellar.toml
+# Surmount surmount.toml
 VERSION="2.0.0"
 
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
-FEDERATION_SERVER="https://api.domain.com/federation"
-TRANSFER_SERVER="https://api.domain.com"
-SIGNING_KEY="GB7MHMJ4RQS54TMKB2M4BQGVTZF36IAM6PYSEK7QIX7HXQ4LNYQCLPGQ"
+SIGNING_KEY="GBBHQ7H4V6RRORKYLHTCAWP6MOHNORRFJSDPXDFYDGJB2LPZUFPXUEW3"
 HORIZON_URL="https://horizon.domain.com"
 ACCOUNTS=[
 "GB7MHMJ4RQS54TMKB2M4BQGVTZF36IAM6PYSEK7QIX7HXQ4LNYQCLPGQ",
@@ -16,21 +14,16 @@ ORG_NAME="Surmount Foundation"
 ORG_DBA="Surmount"
 ORG_URL="https://pkrpng.github.io"
 ORG_LOGO="https://pkrpng.github.io/Surmount128.png"
-ORG_DESCRIPTION="Decentralized financial token with intrinsic value created by algorithmic trading in forex markets"
+ORG_DESCRIPTION="Decentralized financial token with value justified by A.I. trading in forex markets"
 ORG_PHYSICAL_ADDRESS="Vanuatu"
 ORG_TWITTER="@SRMTFoundation"
 ORG_OFFICIAL_EMAIL="n/a"
-
-[[PRINCIPALS]]
-name="Peter Krejcar"
-email="surmountadmin@surmounttoken.com"
-twitter="@PK_SRMT"
 
 [[CURRENCIES]]
 code="SRM"
 issuer="GB7MHMJ4RQS54TMKB2M4BQGVTZF36IAM6PYSEK7QIX7HXQ4LNYQCLPGQ"
 display_decimals=2
 name="Surmount"
-desc="1 Surmount token may entitle the holder to XLM from the Surmount Foundation"
+desc="1 Surmount token may entitle the holder to reward from the Surmount Foundation"
 image="https://pkrpng.github.io/Surmount128.png"
 
